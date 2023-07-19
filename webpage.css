@@ -1,0 +1,15 @@
+h1 {
+  color: black;
+}
+
+body {
+  background: linear-gradient(to top left, #ffff99 0%, #ff9966 100%);
+  background-attachment: fixed;
+}
+
+#container {
+  height: 100px;
+  width: 300px;
+  border: 1px solid black;
+  position: relative;
+}
