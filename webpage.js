@@ -2,7 +2,7 @@ var layout = {
   title: {
     text:'Color vs % Reflectance',
     font: {
-      family: 'Courier New, monospace',
+      family: 'Pangolin, monospace',
       size: 24
     },
     xref: 'paper',
@@ -13,7 +13,7 @@ var layout = {
     title: {
       text: 'Color(wavelength)',
       font: {
-        family: 'Courier New, monospace',
+        family: 'Pangolin, monospace',
         size: 18,
         color: '#7f7f7f'
       }
@@ -23,7 +23,7 @@ var layout = {
     title: {
       text: '% Reflectance',
       font: {
-        family: 'Courier New, monospace',
+        family: 'Pangolin, monospace',
         size: 18,
         color: '#7f7f7f'
       }
